@@ -1,0 +1,8 @@
+#PYTHONاول مشروع ف تعلم ال 
+#وهو عباره عن يديك افكار لتسميه قناه اليتيوب بتاعتك...
+#من خلال هيطلب منك اولا ادخال اسم الدلع او الشهره واسم نوع محتواك ع الصفحه وهو يقوم من خلال هذه المعلومات انشاء اسم مناسب لصفحتك
+#thanks
+print("Welcome to the YouTube Channel Name Generator: ")
+name = input("What is your nickname? \n")
+topic = input("What is your channel about? \n")
+print ("You could name your channel " + "(" + topic + " with " + name + ")")
